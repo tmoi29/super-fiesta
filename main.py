@@ -1,3 +1,8 @@
+#Team Super_fiesta
+#Tiffany Moi, Anish Shenoy, Vivien Lee
+#SoftDev2 pd7
+#K16 -- Ready, Set, Math!
+#2018-04-27
 
 def intersect(s1, s2):
     ret = [x for x in s1 for y in s2 if x==y]
